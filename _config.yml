@@ -11,7 +11,7 @@ author: Julia Ebert
 author_website: http://juliaebert.com
 email: julia@juliaebert.com
 
-baseurl: "/tls-site"  # Subpath of your site, e.g. /blog. For deploying to github pages, this should match your repo name
+baseurl: "/tls-site/app"  # Subpath of your site, e.g. /blog. For deploying to github pages, this should match your repo name
                             # Currently `gulp serve:dist` does not work with a baseurl specified. For this purpose,
                             # temporarily comment out this parameter
 url: "http://juliaebert.com"  # Base hostname & protocol for your site
